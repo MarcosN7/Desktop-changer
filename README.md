@@ -12,4 +12,4 @@ This Python script allows you to automatically change your desktop wallpaper usi
 1. Clone this repository.
 
 ```bash
-git clone https://github.com/yourusername/your-repo.git
+git clone https://github.com/MarcosN7/Desktop-changer.git
